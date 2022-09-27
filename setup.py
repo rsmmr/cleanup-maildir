@@ -13,5 +13,5 @@ setup(
     maintainer='Emanuel Haupt',
     maintainer_email='ehaupt@critical.ch',
     url='https://github.com/ehaupt/cleanup-maildir',
-    scripts=['scripts/cleanup-maildir'],
+    scripts=['scripts/cleanup-maildir.py'],
 )
